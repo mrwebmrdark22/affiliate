@@ -1,0 +1,37 @@
+body{
+  margin: 0px;
+}
+
+div{
+  width: 100%;
+  height: 50px;
+  background: whitesmoke;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  margin: 0px;
+  padding-top: 6px;
+  color: #FC077E;
+  font-size: 22px;
+}
+.myp{
+  height: 222px;
+  width: 100%;
+  margin-top: 12px;
+  background-color: white;
+}
+.btn{
+  border: 0px;
+  background-color: #FC077E;
+  width: 322px;
+  height: 44px;
+  border-radius: 6px;
+  margin-top: 12px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.byt{
+  background-color: white;
+}
